@@ -37,7 +37,7 @@
 </div>
 </details>
 
-<details>
+<details display="none">
   <summary>🧮 about</summary>
 <div>
 <samp>
