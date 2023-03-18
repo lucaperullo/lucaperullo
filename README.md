@@ -47,7 +47,7 @@
      src="https://komarev.com/ghpvc/?username=lucaperullo&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://lucaperullo.github.io/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Flucaperullo.github.io%2F1999AZZAR%2F" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Flucaperullo.github.io" height="25"
      alt="website" /></a>
   </p>
  </samp>
