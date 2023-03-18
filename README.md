@@ -81,11 +81,11 @@
             <p align="center">
         <a href="https://github.com/lucaperullo/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaperullo&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
+          alt="lucaperullo :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/lucaperullo/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaperullo&theme=gruvbox&layout=compact&hide_border=true"
           alt="lucaperullo :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaperullo&theme=gruvbox&layout=compact&hide_border=true"
           alt="lucaperullo :: Top Langs by commit" />
