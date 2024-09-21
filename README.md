@@ -26,7 +26,7 @@
         <a href="https://instagram.com/lucazzochemihairotto" target="blank"><img align="center"
            src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
            alt="luca" height="30"/></a>
-        <a href="https://wa.me/+393534343018" target="blank"><img align="center"
+        <a href="https://wa.me/+393445820014" target="blank"><img align="center"
            src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
            alt="luca" height="30"/></a>
         <br>
@@ -52,8 +52,8 @@
         <a href="https://github.com/lucaperullo" target="blank"><img align="center" 
            src="https://komarev.com/ghpvc/?username=lucaperullo&style=for-the-badge&label=PROFILE+VIEWS" height="25"
            alt="views count" /></a>
-        <a href="https://lucaperullo.github.io/"><img align="center" 
-           src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Flucaperullo.github.io" height="25"
+        <a href="https://lucaperullo.github.io/portfoliov2"><img align="center" 
+           src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Flucaperullo.github.io/portfoliov2" height="25"
            alt="website" /></a>
       </p>
     </samp>
