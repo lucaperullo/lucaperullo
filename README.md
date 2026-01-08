@@ -1,211 +1,161 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,26&height=280&section=header&text=Luca%20Perullo&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Architect&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,334155&height=300&section=header&text=Luca%20Perullo&fontSize=80&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%7C%20Visionary%20Founder%20%7C%20AI%20Architect&descAlignY=55&descAlign=50" alt="Luca Perullo Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%9A%80;AI+Applications+Specialist+%F0%9F%A4%96;5%2B+Years+of+Experience+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.gethabitz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Check_out_Habitz-My_Latest_AI_Creation-FF6B6B?style=for-the-badge&labelColor=4ECDC4&color=FF6B6B" alt="Habitz" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Digital+Ecosystems;Founder+%26+CEO+at+Habitz;Specialized+in+React,+Next.js+%26+AI;Turning+Complex+Logic+into+Smooth+UI" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/lucaperullo">
-    <img src="https://komarev.com/ghpvc/?username=lucaperullo&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
-  </a>
-  <a href="https://lucaperullo.github.io/portfoliov2">
-    <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Flucaperullo.github.io/portfoliov2&color=42c767&label=Portfolio" alt="Website Status"/>
-  </a>
-  <a href="https://github.com/lucaperullo/curriculum_en/blob/main/curriculum.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucaperullo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaperullo&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-  Tech Stack & Tools
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-</h2>
-
-<div align="center">
-  
-  ### 🎯 Core Technologies
-  
-  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,tailwind,nodejs,mongodb&theme=dark" alt="Core Tech Stack" />
-  
-  ### 🚀 Development Tools
-  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,webpack,docker&theme=dark" alt="Development Tools" />
-  
-  ### 🤖 AI & Innovation
-  
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"/>
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI"/>
-  <img src="https://img.shields.io/badge/Anthropic-6B47ED?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
-  
-</div>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-  Experience Journey
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/2023--2024-FF6B6B?style=for-the-badge" alt="2023-2024"/>
-      </td>
-      <td align="left">
-        <h3>🎯 Frontend Specialist @ Bain & Company</h3>
-        <p>• Led frontend development of cutting-edge AI-driven tools<br/>
-        • Implemented advanced React patterns and state management<br/>
-        • Collaborated with global teams on high-impact projects</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/2022--Present-58A6FF?style=for-the-badge" alt="2022-Present"/>
-      </td>
-      <td align="left">
-        <h3>🚀 Frontend Specialist @ DS Tech</h3>
-        <p>• Architected banking websites with focus on security & UX<br/>
-        • Pioneered AI-powered application development<br/>
-        • Mentored junior developers in modern web technologies</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/2021--2022-42C767?style=for-the-badge" alt="2021-2022"/>
-      </td>
-      <td align="left">
-        <h3>💡 Frontend Developer @ Fides</h3>
-        <p>• Led frontend development of <a href="https://www.playitaly.com/" target="_blank">PlayItaly</a><br/>
-        • Built internal timesheet management systems<br/>
-        • Implemented responsive designs with Chakra UI</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30px" height="30px">
-  Let's Connect
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30px" height="30px">
-</h2>
-
-<div align="center">
-  <a href="https://wa.me/+393514191597?text=Hi%20Luca!%20I%20saw%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20hiring%20you%20for%20a%20project.%20Let's%20discuss!" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Want_to_hire_me?-Send_me_a_notification!-FF6B6B?style=for-the-badge&labelColor=25D366&logoColor=white&logo=whatsapp" alt="Hire Me" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luca-perullo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:lucaperullo@outlook.it" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  <a href="mailto:lucaperullo@outlook.it">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/+393514191597" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/+393514191597">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://instagram.com/lucazzochemihairotto" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://github.com/lucaperullo/curriculum_en/blob/main/curriculum.pdf">
+    <img src="https://img.shields.io/badge/CV-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaperullo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=1F6FEB" alt="Activity Graph"/>
+  <h3>⚡ Engineering the Future</h3>
+  <p align="center" width="60%">
+    I am a <b>Senior Frontend / Full-Stack Engineer</b> with over 6 years of experience transforming ambitious ideas into high-performance applications. 
+    Currently leading innovation as the <b>Founder of Habitz</b> and architecting scalable solutions for enterprise clients. 
+    My expertise lies in the <b>MERN stack</b>, <b>Next.js</b>, and <b>AI-driven development</b>, always with a focus on pixel-perfect UI and robust architecture.
+  </p>
 </div>
 
 <br/>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" height="30px">
-  What I'm About
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" height="30px">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
+  Technological Arsenal
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px">
 </h2>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaperullo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=lucaperullo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🎯 Current Focus</h3>
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🧠_AI_Integration-Building_Intelligent_Apps-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="AI Focus"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡_Performance-Optimizing_React_Apps-58A6FF?style=for-the-badge&labelColor=1F2937" alt="Performance Focus"/>
-      </td>
+      <td align="center" width="200"><b>💻 Frontend Core</b></td>
+      <td align="center" width="200"><b>⚙️ Backend & DB</b></td>
+      <td align="center" width="200"><b>🧠 AI & Mobile</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🎨_UI/UX-Crafting_Beautiful_Interfaces-42C767?style=for-the-badge&labelColor=1F2937" alt="UI/UX Focus"/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,html,css&theme=dark" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Innovation-Exploring_New_Tech-9333EA?style=for-the-badge&labelColor=1F2937" alt="Innovation Focus"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgresql,firebase,docker&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=openai,pytorch,android,apple,flutter&theme=dark" /> <br/>
+        <sub>+ Capacitor, Langchain</sub>
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,26&height=120&section=footer&animation=fadeIn" alt="footer"/>
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Luca Perullo</sub>
   <br/>
-  <sub>⭐ Star this repo if you like what you see!</sub>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,npm,vite,webpack&theme=dark" alt="Tools" />
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> 
+  Mission Timeline
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
+</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="120">
+        <img src="https://img.shields.io/badge/2025%20--%20Now-FF6B6B?style=for-the-badge&labelColor=2d1b2e" alt="Current"/>
+      </td>
+      <td valign="top">
+        <h3>🚀 Founder & CEO | Full-Stack Engineer @ <a href="https://www.gethabitz.com">Habitz</a></h3>
+        <blockquote>
+          <i>Leading the coliving digital revolution.</i>
+        </blockquote>
+        <ul>
+          <li>Founded and architected the entire digital platform (Web & Mobile).</li>
+          <li>Developed the <b>Android mobile app</b> end-to-end.</li>
+          <li>Owning product strategy, SEO optimization, and system scalability.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="120">
+        <img src="https://img.shields.io/badge/2025%20--%202026-8B5CF6?style=for-the-badge&labelColor=2d1b2e" alt="Tayra"/>
+      </td>
+      <td valign="top">
+        <h3>💎 Full-Stack Developer @ Tayra Srls</h3>
+        <ul>
+          <li>Building <b><a href="https://yuzami.com">Yuzami.com</a></b> (E-commerce) & Custom CRM.</li>
+          <li>Stack: <b>Next.js, Redux, Supabase, Tailwind CSS, shadcn/ui</b>.</li>
+          <li>Optimized frontend performance and implemented Role-Based Access Control (RBAC).</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="120">
+        <img src="https://img.shields.io/badge/2024%20--%202025-3B82F6?style=for-the-badge&labelColor=1e293b" alt="Tecma"/>
+      </td>
+      <td valign="top">
+        <h3>🏙️ Frontend Specialist @ Tecma Solutions</h3>
+        <ul>
+          <li>Boosted real estate platform design system performance by <b>20%</b>.</li>
+          <li>Built custom libraries for cutting-edge user experiences.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="120">
+        <img src="https://img.shields.io/badge/2023%20--%202024-EF4444?style=for-the-badge&labelColor=1e293b" alt="Bain"/>
+      </td>
+      <td valign="top">
+        <h3>🤖 Frontend Specialist @ Bain & Company</h3>
+        <ul>
+          <li>Led frontend for AI-driven enterprise tools and generative workflows.</li>
+          <li>Delivered scalable architectures for global consulting projects.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <a href="https://github.com/lucaperullo/curriculum_en/blob/main/curriculum.pdf">
+      <b>See full history (DS Tech, Fides, DUT) in my Resume »</b>
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaperullo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94a3b8&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaperullo&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8&currStreakNum=94a3b8&sideNums=94a3b8&sideLabels=38BDF8&dates=64748b" height="180" alt="GitHub Streak" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaperullo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&area=true&area_color=0ea5e9" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,334155&height=120&section=footer&animation=fadeIn&desc=Ready%20to%20Build%20Something%20Great?&descAlign=50&descAlignY=40&fontColor=f8fafc" alt="Footer"/>
+  <br/>
+  <a href="https://wa.me/+393514191597">
+    <img src="https://img.shields.io/badge/AVAILABLE_FOR_NEW_PROJECTS-Let's_Talk!-success?style=for-the-badge&logo=whatsapp" alt="Hire Me"/>
+  </a>
 </div>
