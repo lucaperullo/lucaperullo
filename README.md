@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.gethabitz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Check_out_AdWizard-My_Latest_AI_Creation-FF6B6B?style=for-the-badge&labelColor=4ECDC4&color=FF6B6B" alt="AdWizard" />
+    <img src="https://img.shields.io/badge/🎨_Check_out_Habitz-My_Latest_AI_Creation-FF6B6B?style=for-the-badge&labelColor=4ECDC4&color=FF6B6B" alt="Habitz" />
   </a>
 </div>
 
